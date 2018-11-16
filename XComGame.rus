@@ -153,53 +153,53 @@ LocHelpText="Убирает штрафы за общий вид. Пассивн�
 LocPromotionPopupText="<Bullet/> Убирает штрафы за общий вид. Пассивный эффект."
 
 [ABB_Surprise X2AbilityTemplate]
-LocFriendlyName="Surprise"
-LocLongDescription="You deal +2 damage while concealed and +1 damage while flanking your target. Passive."
-LocHelpText=You deal +2 damage while concealed and +1 damage while flanking your target. Passive."
-LocFlyOverText="First Strike"
-LocPromotionPopupText="<Bullet/> Surprise can provide a decisive advantage in an ambush by taking out a tough enemy in one shot.<br/><Bullet/> The soldier with Surprise must initiate the ambush to get the bonus. It doesn't affect concealed overwatch."
+LocFriendlyName="Сюрприз"
+LocLongDescription="Вы наносите +2 урона в режиме скрытности и +1 урон против целей, обойденных с фланга. Пассивный эффект."
+LocHelpText=Вы наносите +2 урона в режиме скрытности и +1 урон против целей, обойденных с фланга. Пассивный эффект."
+LocFlyOverText="Первый Удар"
+LocPromotionPopupText="<Bullet/> Способность может дать решающее преимущество во время засады, позволяя снять крепкого врага одним выстрелом.<br/><Bullet/> Для бонуса обладатель способности должен сам инициировать засаду. Не распространяется на боеготовность из режима скрытности."
 
 [ABB_DisablingShot X2AbilityTemplate]
-LocFriendlyName="Disabling Shot"
-LocFlyOverText="Disabling Shot"
-LocLongDescription="Primary weapon shot that, if it hits, stuns the target for 2 actions. Cannot critically hit. Uses 1 ammo. 4 turn cooldown."
-LocHelpText="Primary weapon shot that, if it hits, stuns the target for 2 actions. Cannot critically hit. Uses 1 ammo. 4 turn cooldown."
-LocPromotionPopupText="<Bullet/> Primary weapon shot that, if it hits, stuns the target for 2 actions.<br/><Bullet/> Cannot cause critical hits.<br/><Bullet/> Uses 1 ammo.<br/><Bullet/> 4 turn cooldown.<br/>"
+LocFriendlyName="Оглушающий Выстрел"
+LocFlyOverText="Оглушающий Выстрел"
+LocLongDescription="Выстрел из основного оружия, который в случае попадания оглушает врага на 2 действия. Не может нанести критический урон. Тратит 1 боезапас. Откат 4 хода."
+LocHelpText="Выстрел из основного оружия, который в случае попадания оглушает врага на 2 действия. Не может нанести критический урон. Тратит 1 боезапас. Откат 4 хода."
+LocPromotionPopupText="<Bullet/> Выстрел из основного оружия, который в случае попадания оглушает врага на 2 действия.<br/><Bullet/> Не может нанести критический урон.<br/><Bullet/> Тратит 1 боезапас.<br/><Bullet/> Откат 4 хода.<br/>"
 
 [ABB_Blend X2AbilityTemplate]
-LocFriendlyName="Blend"
-LocFlyOverText="Blend"
-LocLongDescription="Immediately grants concealment that is automatically broken after 2 turns."
-LocHelpText="Immediately grants concealment that is automatically broken after 2 turns."
-LocPromotionPopupText="<Bullet/> Immediately grants concealment that is automatically broken after 2 turns.<br/><Bullet/> This is useful for escaping a dicey situation or getting another use out of Surprise.<br/><Bullet/> The concealment will break at the start of the player's turn.<br/>"
+LocFriendlyName="Камуфляж"
+LocFlyOverText="Камуфляж"
+LocLongDescription="Моментально перейти в режим скрытности, который срывается через 2 хода."
+LocHelpText="Моментально перейти в режим скрытности, который срывается через 2 хода."
+LocPromotionPopupText="<Bullet/> Моментально перейти в режим скрытности, который срывается через 2 хода.<br/><Bullet/> Полезная способность для выхода из патовых ситуаций, прекрасно сочетается со способностью Сюрприз.<br/><Bullet/> Скрытность сорвется в начале хода игрока.<br/>"
 
 [ABB_Botnet X2AbilityTemplate]
-LocFriendlyName="Botnet"
-LocFlyOverText="Botnet"
-LocLongDescription="While active, standard shots from all allies before next turn lower their target's hack defense by <Ability:BOTNET_HACK_DEFENSE_PENALTY>. <Ability:BOTNET_COOLDOWN> turn cooldown. Free action."
-LocHelpText="While active, standard shots from all allies before next turn lower their target's hack defense by <Ability:BOTNET_HACK_DEFENSE_PENALTY>. <Ability:BOTNET_COOLDOWN> turn cooldown. Free action."
-LocPromotionPopupText="<Bullet/> While active, standard shots from all allies before next turn lower their target's hack defense by <Ability:BOTNET_HACK_DEFENSE_PENALTY>.<br/><Bullet/> <Ability:BOTNET_COOLDOWN> turn cooldown.<br/><Bullet/> Free action.<br/>"
+LocFriendlyName="Ботнет"
+LocFlyOverText="Ботнет"
+LocLongDescription="При активации, все стандартные выстрелы ваших союзников до начала следующего хода снижают у цели защиту от взлома на <Ability:BOTNET_HACK_DEFENSE_PENALTY>. Откат <Ability:BOTNET_COOLDOWN> ходов. Бесплатное действие."
+LocHelpText="При активации, все стандартные выстрелы ваших союзников до начала следующего хода снижают у цели защиту от взлома на <Ability:BOTNET_HACK_DEFENSE_PENALTY>. Откат <Ability:BOTNET_COOLDOWN> ходов. Бесплатное действие."
+LocPromotionPopupText="<Bullet/> При активации, все стандартные выстрелы ваших союзников до начала следующего хода снижают у цели защиту от взлома на <Ability:BOTNET_HACK_DEFENSE_PENALTY>.<br/><Bullet/> Откат <Ability:BOTNET_COOLDOWN> ходов.<br/><Bullet/> Бесплатное действие.<br/>"
 
 [ABB_ReadyForAnything X2AbilityTemplate]
-LocFriendlyName="Ready for Anything"
-LocLongDescription="When you make a standard attack with your <Ability:WeaponName/> you automatically enter overwatch."
-LocHelpText="Fire a shot at a target, then enter overwatch."
-LocFlyOverText="Ready for Anything"
-LocPromotionPopupText="<Bullet/> You won't enter overwatch if you are out of ammo.<br/>"
+LocFriendlyName="Готов ко Всему"
+LocLongDescription="Совершив стрельбу по противнику из оружия <Ability:WeaponName/>, вы автоматически переходите в режим боеготовности."
+LocHelpText="Выстрелите по цели, затем войдите в режим боеготовности."
+LocFlyOverText="Готов ко Всему"
+LocPromotionPopupText="<Bullet/> Вы не перейдете в боеготовность, если у вас нет патронов.<br/>"
 
 [ABB_Resupply X2AbilityTemplate]
-LocFriendlyName="Resupply"
-LocFlyOverText="Resupply"
-LocLongDescription="Refill the primary weapon ammo of all allies. <Ability:RESUPPLY_CHARGES/> charges per mission."
-LocHelpText="Refill the primary weapon ammo of all allies. <Ability:RESUPPLY_CHARGES/> charges per mission."
-LocPromotionPopupText="<Bullet/> Refill the primary weapon ammo of all allies.<br/><Bullet/> <Ability:RESUPPLY_CHARGES/> charges per mission.<br/>"
+LocFriendlyName="Пополнение"
+LocFlyOverText="Пополнение"
+LocLongDescription="Пополнить боезапас основного оружия для всех союзников. <Ability:RESUPPLY_CHARGES/> зарядов на миссию."
+LocHelpText="Пополнить боезапас основного оружия для всех союзников. <Ability:RESUPPLY_CHARGES/> зарядов на миссию."
+LocPromotionPopupText="<Bullet/> Пополнить боезапас основного оружия для всех союзников.<br/><Bullet/> <Ability:RESUPPLY_CHARGES/> зарядов на миссию.<br/>"
 
 [ABB_Immunize X2AbilityTemplate]
-LocFriendlyName="Immunize"
-LocFlyOverText="Immunize"
-LocLongDescription="Your GREMLIN flies to an ally, granting them immunity to damage until the beginning of next turn. <Ability:IMMUNIZE_CHARGES/> charge per mission."
-LocHelpText="Your GREMLIN flies to an ally, granting them immunity to damage until the beginning of next turn. <Ability:IMMUNIZE_CHARGES/> charge per mission."
-LocPromotionPopupText="<Bullet/> Your GREMLIN flies to an ally, granting them immunity to damage until the beginning of next turn.<br/><Bullet/> <Ability:IMMUNIZE_CHARGES/> charge per mission.<br/>"
+LocFriendlyName="Вакцинация"
+LocFlyOverText="Вакцинация"
+LocLongDescription="Ваш ГРЕМЛИН подлетает к союзнику и дает ему иммунитет к урону до начала хода. <Ability:IMMUNIZE_CHARGES/> зарядов на миссию."
+LocHelpText="Ваш ГРЕМЛИН подлетает к союзнику и дает ему иммунитет к урону до начала хода. <Ability:IMMUNIZE_CHARGES/> зарядов на миссию."
+LocPromotionPopupText="<Bullet/> Ваш ГРЕМЛИН подлетает к союзнику и дает ему иммунитет к урону до начала хода.<br/><Bullet/> <Ability:IMMUNIZE_CHARGES/> зарядов на миссию.<br/>"
 
 [ABB_Rush X2AbilityTemplate]
 LocFriendlyName="Rush"
