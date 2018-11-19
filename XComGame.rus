@@ -202,25 +202,25 @@ LocHelpText="Ваш ГРЕМЛИН подлетает к союзнику и д�
 LocPromotionPopupText="<Bullet/> Ваш ГРЕМЛИН подлетает к союзнику и дает ему иммунитет к урону до начала хода.<br/><Bullet/> <Ability:IMMUNIZE_CHARGES/> зарядов на миссию.<br/>"
 
 [ABB_Rush X2AbilityTemplate]
-LocFriendlyName="Rush"
-LocFlyOverText="Rush"
-LocLongDescription="Run towards an enemy and stab them with your <Ability:WeaponName/>. Can only perform with single-action moves. Costs a single action and does not end the turn."
-LocHelpText="Run towards an enemy and stab them with your <Ability:WeaponName/>. Can only perform with single-action moves. Costs a single action and does not end the turn."
-LocPromotionPopupText="<Bullet/> Run towards an enemy and stab them with your <Ability:WeaponName/>. Can only perform with single-action moves. Costs a single action and does not end the turn.<br/>"
+LocFriendlyName="Порыв"
+LocFlyOverText="Порыв"
+LocLongDescription="Подбегите к противнику и ударьте его своим оружием <Ability:WeaponName/>. Затрагивает только цели в пределах одиночного передвижения. Стоит одно действие и не завершает ход."
+LocHelpText="Подбегите к противнику и ударьте его своим оружием <Ability:WeaponName/>. Затрагивает только цели в пределах одиночного передвижения. Стоит одно действие и не завершает ход."
+LocPromotionPopupText="<Bullet/> Подбегите к противнику и ударьте его своим оружием <Ability:WeaponName/>. Затрагивает только цели в пределах одиночного передвижения. Стоит одно действие и не завершает ход.<br/>"
 
 [ABB_AmmoConservation X2AbilityTemplate]
-LocFriendlyName="Ammo Conservation"
-LocFlyOverText="Ammo Conservation"
-LocLongDescription="Activated ability that does not cost an action point. For the remainder of this turn, your ammo will be refunded after each shot you take. <Ability:AMMOCONSERVATION_COOLDOWN/> turn cooldown."
-LocHelpText="Activated ability that does not cost an action point. For the remainder of this turn, your ammo will be refunded after each shot you take. <Ability:AMMOCONSERVATION_COOLDOWN/> turn cooldown."
-LocPromotionPopupText="<Bullet/> Activated ability that does not cost an action point. For the remainder of this turn, your ammo will be refunded after each shot you take.<br/><Bullet/> Shots and abilities still require you to have the required amount of ammo in your weapon.<br/><Bullet/> <Ability:AMMOCONSERVATION_COOLDOWN/> turn cooldown.<br/>"
+LocFriendlyName="Береги Патроны"
+LocFlyOverText="Береги Патроны"
+LocLongDescription="Активируемая способность, не тратящая очков действия. До конца хода, все ваши выстрелы будут возвращать потраченный боезапас. Откат <Ability:AMMOCONSERVATION_COOLDOWN/> ходов."
+LocHelpText="Активируемая способность, не тратящая очков действия. До конца хода, все ваши выстрелы будут возвращать потраченный боезапас. Откат <Ability:AMMOCONSERVATION_COOLDOWN/> ходов."
+LocPromotionPopupText="<Bullet/> Активируемая способность, не тратящая очко действия. До конца хода, все ваши выстрелы не будут тратить боезапас.<br/><Bullet/> Выстрелы и способности по-прежнему будут требовать боезапаса в обойме.<br/><Bullet/> Откат <Ability:AMMOCONSERVATION_COOLDOWN/> ходов.<br/>"
 
 [ABB_WellProtected X2AbilityTemplate]
-LocFriendlyName="Well Protected"
-LocFlyOverText="Well Protected"
-LocLongDescription="Grants a vest only utility slot."
-LocHelpText="Grants a vest only utility slot."
-LocPromotionPopupText="<Bullet/> Grants a vest only utility slot.<br/>"
+LocFriendlyName="Хорошо Защищенный"
+LocFlyOverText="Хорошо Защищенный"
+LocLongDescription="Дает слот, эксклюзивный для бронежилетов."
+LocHelpText="Дает слот, эксклюзивный для бронежилетов."
+LocPromotionPopupText="<Bullet/> Дает слот, эксклюзивный для бронежилетов.<br/>"
 
 [ABB_Dedication X2AbilityTemplate]
 LocFriendlyName="Dedication"
