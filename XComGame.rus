@@ -223,11 +223,11 @@ LocHelpText="Дает слот, эксклюзивный для бронежил
 LocPromotionPopupText="<Bullet/> Дает слот, эксклюзивный для бронежилетов.<br/>"
 
 [ABB_Dedication X2AbilityTemplate]
-LocFriendlyName="Dedication"
-LocFlyOverText="Dedication"
-LocLongDescription="Free action. Gain 3 mobility and ignore reaction fire for the rest of the turn. 3 turn cooldown."
-LocHelpText="Free action. Gain 3 mobility and ignore reaction fire for the rest of the turn. 3 turn cooldown."
-LocPromotionPopupText="<Bullet/> Gain 3 mobility and ignore reaction fire for the rest of the turn.<br/><Bullet/> Free action.<br/><Bullet/> 3 turn cooldown.<br/>"
+LocFriendlyName="Стремительность"
+LocFlyOverText="Стремительность"
+LocLongDescription="Бесплатное действие. Получите 3 мобильности и игнорируйте ответную стрельбу до конца хода. Откат 3 хода."
+LocHelpText="Бесплатное действие. Получите 3 мобильности и игнорируйте ответную стрельбу до конца хода. Откат 3 хода."
+LocPromotionPopupText="<Bullet/> Получите 3 мобильности и игнорируйте ответную стрельбу до конца хода.<br/><Bullet/> Бесплатное действие.<br/><Bullet/> Откат 3 хода.<br/>"
 
 [ABB_Triage X2AbilityTemplate]
 LocFriendlyName="Triage"
