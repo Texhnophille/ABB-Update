@@ -13,18 +13,18 @@ LocHelpText="Ваши задевающие выстрелы автоматиче
 LocPromotionPopupText="<Bullet/> Атаки, которые обычно царапают цель, автоматически становятся нормальными попаданиями.<br/><Bullet/> Применимо к основному оружию, дополнительному оружию и пистолетам.<br/>"
 
 [ABB_LikeLightning X2AbilityTemplate]
-LocFriendlyName="Как молния"
-LocFlyOverText="Как молния"
+LocFriendlyName="Как Молния"
+LocFlyOverText="Как Молния"
 LocLongDescription="Когда Стрельба на Бегу активирована, откат на дугомет немедленно отменяется, а ваш следующий выстрел из дугомета на этом ходу не требует очков действия. Пассивное умение."
 LocHelpText="Когда Стрельба на Бегу активирована, откат на дугомет немедленно отменяется, а ваш следующий выстрел из дугомета на этом ходу не требует очков действия. Пассивное умение."
 LocPromotionPopupText="<Bullet/> Когда Стрельба на Бегу активирована, откат на дугомет немедленно отменяется, а ваш следующий выстрел из дугомета на этом ходу не требует очков действия.<br/><Bullet/> Не применимо к Цепной Молнии.<br/><Bullet/> Пассивное умение.<br/>"
 
 [ABB_StationaryThreat X2AbilityTemplate]
-LocFriendlyName="Постоянная угроза"
-LocFlyOverText="Постоянная угроза"
-LocLongDescription="Добавляет +<Ability:STATIONARYTHREAT_DAMAGE_PER_TURN> вашему основному оружию за каждый ход. на котором вы не двигаетесь. Пассивное умение."
-LocHelpText="Добавляет +<Ability:STATIONARYTHREAT_DAMAGE_PER_TURN> вашему основному оружию за каждый ход. на котором вы не двигаетесь. Пассивное умение."
-LocPromotionPopupText="<Bullet/> Добавляет +<Ability:STATIONARYTHREAT_DAMAGE_PER_TURN> вашему основному оружию за каждый ход. на котором вы не двигаетесь. Пассивное умение.<br/><Bullet/> Бонусный эффект может складываться <Ability:STATIONARYTHREAT_DAMAGE_MAX_TURNS> раза.<br/><Bullet/> Пассивное умение.<br/>"
+LocFriendlyName="Постоянная Угроза"
+LocFlyOverText="Постоянная Угроза"
+LocLongDescription="Добавляет +<Ability:STATIONARYTHREAT_DAMAGE_PER_TURN> вашему основному оружию за каждый ход, на котором вы не двигаетесь. Пассивное умение."
+LocHelpText="Добавляет +<Ability:STATIONARYTHREAT_DAMAGE_PER_TURN> вашему основному оружию за каждый ход, на котором вы не двигаетесь. Пассивное умение."
+LocPromotionPopupText="<Bullet/> Добавляет +<Ability:STATIONARYTHREAT_DAMAGE_PER_TURN> вашему основному оружию за каждый ход, на котором вы не двигаетесь. Пассивное умение.<br/><Bullet/> Бонусный эффект может складываться <Ability:STATIONARYTHREAT_DAMAGE_MAX_TURNS> раза.<br/><Bullet/> Пассивное умение.<br/>"
 
 [ABB_Opportunist X2AbilityTemplate]
 LocFriendlyName="Оппортунист"
@@ -41,8 +41,8 @@ LocHelpText="Выстрел из основного оружия, обездви
 LocPromotionPopupText="<Bullet/> Выстрел из основного оружия, обездвиживающий цель до конца следующего хода.<br/><Bullet/> Полезно для изоляции особо важной цели во время засады.<br/><Bullet/> Использует 2 боеприпаса.<br/><Bullet/>3Восстноавление 3 хода.<br/>"
 
 [ABB_QuickPatch X2AbilityTemplate]
-LocFriendlyName="Быстрая помощь"
-LocFlyOverText="Быстрая помощь"
+LocFriendlyName="Быстрая Помощь"
+LocFlyOverText="Быстрая Помощь"
 LocLongDescription="Использование аптечки первой помощи больше не требует очков действия. Пассивное умение."
 LocHelpText="Использование аптечки первой помощи больше не требует очков действия. Пассивное умение."
 LocPromotionPopupText="<Bullet/> Использование аптечки первой помощи больше не требует очков действия.<br/><Bullet/> Пассивное умение..<br/>"
@@ -55,8 +55,8 @@ LocHelpText="Когда режим скрытности нарушается, д
 LocPromotionPopupText="<Bullet/> Когда режим скрытности нарушается, добавляет +<Ability:PRESERVATION_DEFENSE_BONUS> к защите на <Ability:PRESERVATION_DURATION> хода(ов).<br/><Bullet/> Пассивное умение.<br/>"
 
 [ABB_LickYourWounds X2AbilityTemplate]
-LocFriendlyName="Зализывание ран"
-LocFlyOverText="Зализывание ран"
+LocFriendlyName="Зализывание Ран"
+LocFlyOverText="Зализывание Ран"
 LocLongDescription="Использование Глухой Обороны восстанавливает <Ability:LICKYOURWOUNDS_HEALAMOUNT/> здоровье, максимально до <Ability:LICKYOURWOUNDS_MAXHEALAMOUNT/> за миссию, так же убирает яд, горение и разъедание. Пассивное умение."
 LocHelpText="Использование Глухой Обороны восстанавливает <Ability:LICKYOURWOUNDS_HEALAMOUNT/> здоровье, максимально до <Ability:LICKYOURWOUNDS_MAXHEALAMOUNT/> за миссию, так же убирает яд, горение и разъедание. Пассивное умение."
 LocPromotionPopupText="<Bullet/> Использование Глухой Обороны восстанавливает <Ability:LICKYOURWOUNDS_HEALAMOUNT/> здоровье, максимально до <Ability:LICKYOURWOUNDS_MAXHEALAMOUNT/> за миссию.<br/><Bullet/>Убирает яд, горение и разъедание..<br/><Bullet/> Пассивное умение.<br/>"
@@ -197,8 +197,8 @@ LocPromotionPopupText="<Bullet/> Пополнить боезапас основ�
 [ABB_Immunize X2AbilityTemplate]
 LocFriendlyName="Вакцинация"
 LocFlyOverText="Вакцинация"
-LocLongDescription="Ваш ГРЕМЛИН подлетает к союзнику и дает ему иммунитет к урону до начала хода. <Ability:IMMUNIZE_CHARGES/> зарядов на миссию."
-LocHelpText="Ваш ГРЕМЛИН подлетает к союзнику и дает ему иммунитет к урону до начала хода. <Ability:IMMUNIZE_CHARGES/> зарядов на миссию."
+LocLongDescription="Ваш ГРЕМЛИН подлетает к союзнику и дает ему иммунитет к урону до начала следующего хода. <Ability:IMMUNIZE_CHARGES/> зарядов на миссию."
+LocHelpText="Ваш ГРЕМЛИН подлетает к союзнику и дает ему иммунитет к урону до начала следующего хода. <Ability:IMMUNIZE_CHARGES/> зарядов на миссию."
 LocPromotionPopupText="<Bullet/> Ваш ГРЕМЛИН подлетает к союзнику и дает ему иммунитет к урону до начала хода.<br/><Bullet/> <Ability:IMMUNIZE_CHARGES/> зарядов на миссию.<br/>"
 
 [ABB_Rush X2AbilityTemplate]
@@ -230,31 +230,31 @@ LocHelpText="Бесплатное действие. Получите 3 моби�
 LocPromotionPopupText="<Bullet/> Получите 3 мобильности и игнорируйте ответную стрельбу до конца хода.<br/><Bullet/> Бесплатное действие.<br/><Bullet/> Откат 3 хода.<br/>"
 
 [ABB_Triage X2AbilityTemplate]
-LocFriendlyName="Triage"
-LocFlyOverText="Triage"
-LocLongDescription="Restores <Ability:TRIAGE_HEAL_AMOUNT> health to the user and surrounding allies. Removes Burning, Acid, and Poison. <Ability:TRIAGE_HEAL_AMOUNT> charge per mission."
-LocHelpText="Restores <Ability:TRIAGE_HEAL_AMOUNT> health to the user and surrounding allies. Removes Burning, Acid, and Poison. <Ability:TRIAGE_HEAL_AMOUNT> charge per mission."
-LocPromotionPopupText="<Bullet/> Restores <Ability:TRIAGE_HEAL_AMOUNT> health to the user and surrounding allies.<br/><Bullet/> Removes Burning, Acid, and Poison.<br/><Bullet/> <Ability:TRIAGE_CHARGES> charge per mission.<br/>"
+LocFriendlyName="Сортировка"
+LocFlyOverText="Сортировка"
+LocLongDescription="Восстанавливает <Ability:TRIAGE_HEAL_AMOUNT> очков здоровья пользователю и окружающим союзникам. Снимает Горение, Кислоту и Яд. <Ability:TRIAGE_HEAL_AMOUNT> зарядов за миссию."
+LocHelpText="Восстанавливает <Ability:TRIAGE_HEAL_AMOUNT> очков здоровья пользователю и окружающим союзникам. Снимает Горение, Кислоту и Яд. <Ability:TRIAGE_HEAL_AMOUNT> зарядов за миссию."
+LocPromotionPopupText="<Bullet/> Восстанавливает <Ability:TRIAGE_HEAL_AMOUNT> очков здоровья пользователю и окружающим союзникам.<br/><Bullet/> Снимает Горение, Кислоту и Яд.<br/><Bullet/> <Ability:TRIAGE_CHARGES> зарядов за миссию.<br/>"
 
 [ABB_Steadfast X2AbilityTemplate]
-LocFriendlyName="Steadfast"
-LocFlyOverText="Steadfast"
-LocLongDescription="Grants immunity to negative mental conditions including panic, mind control, stuns, and disorientation."
-LocHelpText="Grants immunity to negative mental conditions including panic, mind control, stuns, and disorientation."
-LocPromotionPopupText="<Bullet/> Grants immunity to negative mental conditions including panic, mind control, stuns, and disorientation.<br/><Bullet/> Passive. <br/>"
+LocFriendlyName="Непоколебимость"
+LocFlyOverText="Непоколебимость"
+LocLongDescription="Дает иммунитет к негативным ментальным эффектам, в числе которых: паника, контроль над разумом, оглушение и дезориентация."
+LocHelpText="Дает иммунитет к негативным ментальным эффектам, в числе которых: паника, контроль над разумом, оглушение и дезориентация."
+LocPromotionPopupText="<Bullet/> Дает иммунитет к негативным ментальным эффектам, в числе которых: паника, контроль над разумом, оглушение и дезориентация.<br/><Bullet/> Пассивный эффект. <br/>"
 
 [ABB_Corpsman X2AbilityTemplate]
-LocFriendlyName="Corpsman"
-LocFlyOverText="Corpsman"
-LocLongDescription="Grants a free Medikit."
-LocHelpText="Grants a free Medikit."
-LocPromotionPopupText="<Bullet/> Grants a free medikit.<br/><Bullet/> A Nano-Medikit will be provided instead if the necessary Research has been completed.<br/>"
+LocFriendlyName="Санитар"
+LocFlyOverText="Санитар"
+LocLongDescription="Дает бесплатную аптечку."
+LocHelpText="Дает бесплатную аптечку."
+LocPromotionPopupText="<Bullet/> Дает бесплатную аптечку.<br/><Bullet/> Если вы провели необходимые исследования, аптечка сменяется на нано-аптечку.<br/>"
 
 [ABB_FieldMedic X2AbilityTemplate]
-LocFriendlyName="Field Medic"
-LocLongDescription="Equipped Medikits have <Ability:FIELDMEDIC_BONUS_ITEMS/> extra charges."
-LocHelpText="Equipped Medikit have <Ability:FIELDMEDIC_BONUS_ITEMS/> extra charges."
-LocPromotionPopupText="<Bullet/> Applies to Medikit granted by the Corpsman ability.<br/><Bullet/> Applies to both Medikits and Nano-Medikit.<br/>"
+LocFriendlyName="Полевой Медик"
+LocLongDescription="Экипированные аптечки имеют <Ability:FIELDMEDIC_BONUS_ITEMS/> дополнительных зарядов."
+LocHelpText="Экипированные аптечки имеют <Ability:FIELDMEDIC_BONUS_ITEMS/> дополнительных зарядов."
+LocPromotionPopupText="<Bullet/> Применимо к аптечке от способности Санитар.<br/><Bullet/> Также применимо к нано-аптечкам.<br/>"
 
 [ABB_Stimulate X2AbilityTemplate]
 LocFriendlyName="Stimulate"
