@@ -257,25 +257,25 @@ LocHelpText="Экипированные аптечки имеют <Ability:FIELD
 LocPromotionPopupText="<Bullet/> Применимо к аптечке от способности Санитар.<br/><Bullet/> Также применимо к нано-аптечкам.<br/>"
 
 [ABB_Stimulate X2AbilityTemplate]
-LocFriendlyName="Stimulate"
-LocFlyOverText="Stimulate"
-LocLongDescription="Once per turn, you may remove mental impairments from an adjacent ally."
-LocHelpText="Once per turn, you may remove mental impairments from an adjacent ally."
-LocPromotionPopupText="<Bullet/> Removes disorient, panic, and unconscious.<br/>"
+LocFriendlyName="Стимуляция"
+LocFlyOverText="Стимуляция"
+LocLongDescription="Один раз за ход, вы можете снять ментальные негативные эффектыс союзника на соседней клетке."
+LocHelpText="Один раз за ход, вы можете снять ментальные негативные эффектыс союзника на соседней клетке."
+LocPromotionPopupText="<Bullet/> Снимает дезориентацию, панику и приводит солдата в сознание.<br/>"
 
 [ABB_Bloodlet X2AbilityTemplate]
-LocFriendlyName="Bloodlet"
-LocLongDescription="Standard shots from your primary weapon or a pistol now cause bleeding."
-LocHelpText="Standard shots from your primary weapon or a pistol now cause bleeding."
-LocFlyOverText="Bloodlet"
-LocPromotionPopupText="<Bullet/> Standard shots from your primary weapon or a pistol now cause bleeding.<br/><Bullet/> The bleed effect lasts for <Ability:BLOODLET_DURATION/> turns and deals <Ability:BLOODLET_TICK_DAMAGE/> damage per turn.<br/>"
+LocFriendlyName="Коготь"
+LocLongDescription="Стандартные выстрелы из вашего основного оружия или пистолета вызывают кровотечение."
+LocHelpText="Стандартные выстрелы из вашего основного оружия или пистолета вызывают кровотечение."
+LocFlyOverText="Коготь"
+LocPromotionPopupText="<Bullet/> Стандартные выстрелы из вашего основного оружия или пистолета вызывают кровотечение.<br/><Bullet/> Кровотечение длится <Ability:BLOODLET_DURATION/> ходов и наносит <Ability:BLOODLET_TICK_DAMAGE/> урона за ход.<br/>"
 
 [ABB_BlindingFire X2AbilityTemplate]
-LocFriendlyName="Blinding Fire"
-LocLongDescription="Fire at enemies in a cone. This attack is inaccurate, having a -15 aim penalty, but also reduces the aim of all targets by -15."
-LocHelpText="Fire at enemies in a cone. This attack is inaccurate, having a -15 aim penalty, but also reduces the aim of all targets by -15."
-LocFlyOverText="Blinding Fire"
-LocPromotionPopupText="<Bullet/> The aim penalty is applied to the targets even if the attack misses them.<br/>"
+LocFriendlyName="Ослепляющая Стрельба"
+LocLongDescription="Выстрелите по противникам в пределах конуса. Атакая неточная, со штрафом -15 к меткости, но она также снижает меткость врагов на -15."
+LocHelpText="Выстрелите по противникам в пределах конуса. Атакая неточная, со штрафом -15 к меткости, но она также снижает меткость врагов на -15."
+LocFlyOverText="Ослепляющая Стрельба"
+LocPromotionPopupText="<Bullet/> Штраф накладывается на всех противников, даже если атака по ним не попадает.<br/>"
 
 [ABB_QuickFeet X2AbilityTemplate]
 LocFriendlyName="Quick Feet"
